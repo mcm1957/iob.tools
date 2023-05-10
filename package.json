@@ -1,0 +1,25 @@
+{
+  "name": "@mcm1957/iob.tools",
+  "version": "0.0.1",
+  "description": "ioBroker toolset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcm1957/iob.tools.git"
+  },
+  "keywords": [
+    "ioBroker"
+  ],
+  "author": "mcm1957",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcm1957/iob.tools/issues"
+  },
+  "homepage": "https://github.com/mcm1957/iob.tools#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
